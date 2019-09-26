@@ -31,3 +31,12 @@
   width: inherit;
   height: 200px;
 }
+
+.text-white h1 {
+  color: #ffffff !important;
+}
+
+.text-white svg {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+}
